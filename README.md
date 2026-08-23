@@ -1,5 +1,9 @@
 # Sprint-Review-and-Retrospective
 
+CS 250: Software Development Lifecycle
+
+This repository contains my Sprint Review and Retrospective from CS 250. Throughout this course, I learned how Agile and Scrum practices can be used throughout the software development lifecycle. This project demonstrates my understanding of user stories, Scrum roles, communication, teamwork, and adapting to changing requirements during development.
+
 **How do I interpret user needs and implement them into a program? How does creating user stories help with this?**
 
 I interpret user needs by first understanding what the user wants to accomplish and then breaking those needs down into specific features or requirements that can be developed and tested. Instead of only focusing on the technical side of a program, it is important to think about the program from the user's point of view. This helps make sure that the final product actually solves the user's problem.
